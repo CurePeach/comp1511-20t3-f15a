@@ -10,10 +10,10 @@ Here is some important information!
 - Everything you need to know about the course (course outline, lecture notes, tutorial notes, etc) can be found on the **WebCMS3 page** and to access that page follow this link: https://webcms3.cse.unsw.edu.au/COMP1511/20T3/
 - On **Moodle**, you will be able to find links to lecture recordings and our tutorials on Blackboard Collaborate!
 - Our tutorials will be held on Blackboard Collaborate which you can access from the Moodle page. They will start *3pm Friday* every week but Week 6.
-    1. Click on the link *Blackboard Collaborate - Tutorials and Labs*. 
-    2. Navigate to the second page of classes.
-    3. Click on the folder *F15A (Fri) Clarissa Tatang + Shrey Somaiya*.
-    4. Click on the session for that week. Starting from 2:30pm, the week's session will be highlighted in bold.
+1. Click on the link *Blackboard Collaborate - Tutorials and Labs*. 
+2. Navigate to the second page of classes.
+3. Click on the folder *F15A (Fri) Clarissa Tatang + Shrey Somaiya*.
+4. Click on the session for that week. Starting from 2:30pm, the week's session will be highlighted in bold.
 - If you ever want to access tutorial notes or examples, I will upload them at this link: https://github.com/CurePeach/comp1511-20t3-f15a
 - Also, it is okay if you have no prior coding knowledge! We don't expect you guys to have prior coding knowledge.
 
