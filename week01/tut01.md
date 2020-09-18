@@ -12,6 +12,14 @@
 
 2. Who is your lab assistant?
 
+<details> 
+  <summary>Answer</summary>
+  
+  My name is Shrey Somaiya - I'm a 2nd year Computer Science student, a fun fact about me is that I play 3 instruments! Feel free to email me at shrey.somaiya@student.unsw.edu.au :)
+</details>
+
+<br>
+
 <br>
 
 3. Let's talk about the course!
